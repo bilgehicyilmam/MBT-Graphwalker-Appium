@@ -1,4 +1,6 @@
+
 # Model Based Testing with Graphwalker and Appium
+### (The code is in the master branch.)
 
 This repository includes the tests of Notepad application on an Android device. I have used Graphwalker with an Appium to test the application.
 
