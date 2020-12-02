@@ -20,3 +20,8 @@ mvn graphwalker:test
 1) Start android emulator.
 2) Start Appium.
 3) Run command ``mvn graphwalker:test`` in the terminal.
+
+
+## Result
+
+![image](https://user-images.githubusercontent.com/61224886/100851603-7a81d580-3496-11eb-99c1-d215af603440.png)
